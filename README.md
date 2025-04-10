@@ -1,4 +1,4 @@
 # Hostel-
 Clg Project
 <br>
-Author - Prajwal Khandare
+Author - Prajwal khandare
